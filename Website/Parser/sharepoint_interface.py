@@ -14,9 +14,9 @@ class SharepointParser:
     url = ''
     username = ''
     password = ''
-    sharepoint_url = 'http://ats-sharepoint.aeroflex.com/_api/web/'
-    sharepoint_user = 'saurabh.bansal@viavisolutions.com'
-    sharepoint_password = 'Qwerty"12345'
+    sharepoint_url = ''
+    sharepoint_user = ''
+    sharepoint_password = ''
 
 
     def __init__(self):
